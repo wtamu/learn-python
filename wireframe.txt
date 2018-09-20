@@ -69,7 +69,7 @@
 
          4. User Account
     .-----------------------.
-    | home             user | -->login only
+    | home             user | --> login only
     |                       |
     |  _______  username    | --> can set username (default first name, increment number)
     |  | ^_^ |  description | --> picture
@@ -121,24 +121,7 @@
     |_______________________|
 
 
-         7. Module Page
-    .-----------------------.
-    | home       user/login | --> store progress, must login to save
-    |                       |
-    | nav |   #. module     | --> organize by header
-    | ... :                 |
-    | ..  |     ~~~~~~~~~~  |
-    | ... :   ~~~~~~~~~~~~  |
-    | ... |   ~~~~~~~~~~~~  |
-    | ..  :   ~~~~~~~~~~~~  |
-    | ..  |    __________   |
-    | ... :    |10010111|   | --> visualization
-    | ... |    |________|   | --> slide deck
-    |-----------------------|
-    |_______________________| --> go to web ide
-
-
-       8. All Modules Page
+       7. All Modules Page
     .-----------------------.
     | home       user/login |
     |                       |
@@ -153,3 +136,21 @@
     |                       |
     |-----------------------|
     |_______________________|
+
+
+         8. Module Page
+    .-----------------------.
+    | home       user/login | --> store progress, must login to save
+    |                       |
+    | nav |   #. module     | --> organize by header
+    | ... :     ~~~~~~~~~~  |
+    | ..  |   ~~~~~~~~~~~~  |
+    | ... :   ~~~~~~~~~~~~  |
+    | ... |   ~~~~~~~~~~~~  |
+    | ..  :    __________   |
+    | ..  |    |01011010|   | --> visualization
+    | ... :    |10010111|   | --> slide deck
+    | ... |    |________|   |
+    |-----------------------|
+    |_______________________| --> go to web ide
+
