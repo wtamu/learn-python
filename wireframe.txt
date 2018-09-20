@@ -124,16 +124,16 @@
        7. All Modules Page
     .-----------------------.
     | home       user/login |
-    |                       |
-    |                       |
-    |                       |
-    |                       |
-    |                       |
-    |                       |
-    |                       |
-    |                       |
-    |                       |
-    |                       |
+    |                       | --> table of contents
+    |  -- basics --         |
+    |  * what is python     |
+    |  * data types         |
+    |  * algorithms         |
+    |  -- intermediate --   |
+    |  * control flow       |
+    |  * data structures    |
+    |  * functions          |
+    |  -- advanced --       |
     |-----------------------|
     |_______________________|
 
